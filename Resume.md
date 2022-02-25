@@ -37,21 +37,15 @@ Running company in tourist entertainment
 
 __2012-2014__
 
-Faculty of Electrotechnics
-
-Czech Technical University in Prague (CTU) – Master, unfinished
+Faculty of Electrotechnics, Czech Technical University in Prague (CTU) – Master, unfinished
 
 __2010-2011__
 
-UJOP UK, Czech Republic, Podebrady
-
-Czech language courses
+UJOP UK, Czech Republic, Podebrady Czech language courses
 
 __2005-2009__
 
-Faculty of Information Technologies
-
-State Engineering University of Armenia – Bachelor
+Faculty of Information Technologies, State Engineering University of Armenia – Bachelor
 
 __1995-2005__  
 
