@@ -46,7 +46,7 @@ School no.4 with English bias
 
 ## __Courses__
 
-QA Manual Testing with Live Project+AGILE+JIRA
+[Udemy, QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/)
 
 <p>&nbsp;</p>
 
