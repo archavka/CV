@@ -24,10 +24,6 @@ __2018 November – 2019 May__
 Worked at “Ginosi apartels & hotels“ on fraud prevention and development of
 finance related procedures, policies, and was dealing with the partner companies in Czech.
 
-## __Personal projects__
-
-
-
 <p>&nbsp;</p>
 
 ## __Education__
