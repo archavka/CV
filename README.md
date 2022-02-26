@@ -4,14 +4,14 @@
 
 ###### [📧 tigranimail@gmai.com](mailto:tigranimail@gmai.com) | 📱 (+374) 94 91 01 03
 
-## __Experience__
+### __Experience__
 
 __2018 November – 2019 May__
 
 Worked at “Ginosi apartels & hotels“ on fraud prevention and development of
 finance related procedures, policies, and was dealing with the partner companies in Czech.
 
-## __Education__
+### __Education__
 
 #### Faculty of Electrotechnics, Czech Technical University in Prague (CTU)
 2012-2014 - Master, unfinished
@@ -25,11 +25,11 @@ finance related procedures, policies, and was dealing with the partner companies
 #### School no.4 with English bias
 1995-2005
 
-## __Courses__
+### __Courses__
 
 [Udemy, QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/)
 
-## __Languages__
+### __Languages__
 
 * Armenian – native
 * English – good
