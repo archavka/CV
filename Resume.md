@@ -27,10 +27,6 @@ finance related procedures, policies.
 
 Also was dealing with the partner companies in Czech.
 
-__2014 – Present__
-
-Running company in tourist entertainment
-
 <p>&nbsp;</p>
 
 ## __Education__
@@ -50,6 +46,12 @@ Faculty of Information Technologies, State Engineering University of Armenia –
 __1995-2005__  
 
 School no.4 with English bias
+
+<p>&nbsp;</p>
+
+## __Courses__
+
+QA Manual Testing with Live Project+AGILE+JIRA
 
 
 <p>&nbsp;</p>
