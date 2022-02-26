@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<div align="center"> 
 
-You can use the [editor on GitHub](https://github.com/archavka/CV/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# __Mr. Tigran Hovhanniasyan__
+  
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### __Contact details:__
 
-### Markdown
+tigranimail@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(+374) 94 91 01 03
 
-```markdown
-Syntax highlighted code block
+Hanrapetutyan 16, 44 apt.
 
-# Header 1
-## Header 2
-### Header 3
+Abovyan, Armenia
 
-- Bulleted
-- List
+---
+<p>&nbsp;</p>
 
-1. Numbered
-2. List
+## __Experience__
 
-**Bold** and _Italic_ and `Code` text
+__2018 November – 2019 May__
 
-[Link](url) and ![Image](src)
-```
+Worked at “Ginosi apartels & hotels“ on fraud prevention and development of
+finance related procedures, policies, and was dealing with the partner companies in Czech.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## __Personal projects__
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/archavka/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<p>&nbsp;</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## __Education__
+
+__2012-2014__
+
+Faculty of Electrotechnics, Czech Technical University in Prague (CTU) – Master, unfinished
+
+__2010-2011__
+
+UJOP UK, Czech Republic, Podebrady Czech language courses
+
+__2005-2009__
+
+Faculty of Information Technologies, State Engineering University of Armenia – Bachelor
+
+__1995-2005__  
+
+School no.4 with English bias
+
+<p>&nbsp;</p>
+
+## __Courses__
+
+QA Manual Testing with Live Project+AGILE+JIRA
+
+
+<p>&nbsp;</p>
+
+## __Languages__
+
+Armenian – native
+
+English – good
+
+Russian – good
+
+Czech – good
