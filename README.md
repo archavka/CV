@@ -1,7 +1,5 @@
 <div align="center"> 
-
-# __Mr. Tigran Hovhanniasyan__
-  
+<h1><b>Mr. Tigran Hovhanniasyan</b></h1>
 </div>
 
 #### __Contact details:__
