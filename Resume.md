@@ -16,16 +16,17 @@ Abovyan, Armenia
 
 ---
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## __Experience__
 
 __2018 November – 2019 May__
 
-Worked in “Ginosi apartels &amp; hotels“ on fraud prevention and development of
-finance related procedures, policies. 
+Worked at “Ginosi apartels & hotels“ on fraud prevention and development of
+finance related procedures, policies, and was dealing with the partner companies in Czech.
 
-Also was dealing with the partner companies in Czech.
+## __Personal projects__
+
+
 
 <p>&nbsp;</p>
 
