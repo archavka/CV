@@ -13,16 +13,16 @@ finance related procedures, policies, and was dealing with the partner companies
 
 ## __Education__
 
-### Faculty of Electrotechnics, Czech Technical University in Prague (CTU)
+#### Faculty of Electrotechnics, Czech Technical University in Prague (CTU)
 2012-2014 - Master, unfinished
 
-### UJOP UK, Czech Republic, Podebrady Czech language courses
+#### UJOP UK, Czech Republic, Podebrady Czech language courses
 2010-2011
 
-### Faculty of Information Technologies, State Engineering University of Armenia 
+#### Faculty of Information Technologies, State Engineering University of Armenia 
 2005-2009 – Bachelor
 
-### School no.4 with English bias
+#### School no.4 with English bias
 1995-2005
 
 ## __Courses__
