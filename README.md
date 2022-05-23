@@ -2,7 +2,7 @@
 <h1><b>Mr. Tigran Hovhanniasyan</b></h1>
 </div>
 
-###### [📧 tigranimail@gmail.com](mailto:tigranimail@gmail.com) | 📱 (+374) 94 91 01 03
+###### [📧 tigran.hovhannisyan@pm.me](mailto:tigran.hovhannisyan@pm.me) | 📱 (+374) 94 91 01 03
 
 ### __Experience__
 
