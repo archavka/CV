@@ -6,10 +6,10 @@
 
 ### __Experience__
 
-__2018 November – 2019 May__
+__Office Experience__
 
-Worked at “Ginosi apartels & hotels“ on fraud prevention and development of
-finance related procedures, policies, and was dealing with the partner companies in Czech.
+Worked at “Ginosi apartels & hotels“ on software automation of fraud prevention and
+finance related procedures, also was dealing with partner companies in Czechia.
 
 ### __Education__
 
