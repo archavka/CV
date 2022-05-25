@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1><b>Mr. Tigran Hovhanniasyan</b></h1>
+<h1><b> Tigran Hovhanniasyan</b></h1>
 </div>
 
 ###### [📧 tigran.hovhannisyan@pm.me](mailto:tigran.hovhannisyan@pm.me) | 📱 (+374) 94 91 01 03
