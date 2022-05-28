@@ -6,10 +6,21 @@
 
 ### __Experience__
 
-__Office Experience__
+__Experience__
 
-Worked at “Ginosi apartels & hotels“ on software automation of fraud prevention and
-finance related procedures, also was dealing with partner companies in Czechia.
+Electrical engineer
+
+* Scheming electrical systems using AutoCAD Electrical  
+* Proposing electrical power solutions based on the building specifications 
+* Communicating electrical specifications to the technical and non-technical teams
+* Carried out junior electrical engineer training for 10 new recruits on-site
+* Prepared technical electrical drawings and submitted them for approval from the project consultants
+
+Worked at “Ginosi apartels & hotels“ on finance related procedures
+
+* Building fraud investigation, prevention action flows
+* Testing the functionality of backoffice software
+* Dealing with partner companies in Czech Republic
 
 ### __Education__
 
@@ -22,10 +33,9 @@ finance related procedures, also was dealing with partner companies in Czechia.
 ##### Faculty of Information Technologies, State Engineering University of Armenia 
 2005-2009 – Bachelor
 
-##### School no.4 with English bias
-1995-2005
-
 ### __Courses__
+
+API testing with [Postman](https://web.postman.co/workspace/My-Workspace~83e45a5a-467e-45d4-8347-78dbff27f0e9/collection/20907995-f5aa5053-043d-4aa0-8d3b-e4e9d73630ed?ctx=documentation)
 
 [Udemy, QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/)
 
