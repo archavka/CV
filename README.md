@@ -35,7 +35,7 @@ Worked at “Ginosi apartels & hotels“ on finance related procedures
 
 ### __Courses__
 
-[API testing with Postman](https://web.postman.co/workspace/My-Workspace~83e45a5a-467e-45d4-8347-78dbff27f0e9/collection/20907995-f5aa5053-043d-4aa0-8d3b-e4e9d73630ed?ctx=documentation)
+[API testing with Postman](https://www.postman.com/orbital-module-technologist-41037412/workspace/tester/collection/20907995-f5aa5053-043d-4aa0-8d3b-e4e9d73630ed?action=share&creator=20907995)
 
 [Udemy, QA Manual Testing with Live Project+AGILE+JIRA](https://www.udemy.com/course/specialize-in-software-testing-with-real-examples-agile-jira/)
 
